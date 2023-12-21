@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.24\System.Net.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Net.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\JackPercy\.nuget\packages\richardszalay.mockhttp\6.0.0\lib\netstandard2.0\RichardSzalay.MockHttp.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.24\System.Private.Uri.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2b0ee2e_002Dca5b_002D41ae_002D8653_002D8ff3ddb8ccac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddMovieCommandHandlerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::97033F2E-EF0B-4084-863C-DB5DC4DA1CDA::net6.0::MockHttpDemo.Tests.UseCases.AddMovie.AddMovieCommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::97033F2E-EF0B-4084-863C-DB5DC4DA1CDA::net6.0::MockHttpDemo.Tests.UseCases.SearchMovies.SearchMovieCommandHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::97033F2E-EF0B-4084-863C-DB5DC4DA1CDA::net6.0::MockHttpDemo.Tests.Services.MovieServiceTests.Auth_request_is_made_before_api_call&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::97033F2E-EF0B-4084-863C-DB5DC4DA1CDA::net6.0::MockHttpDemo.Tests.Services.MovieServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
